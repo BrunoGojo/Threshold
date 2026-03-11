@@ -1,6 +1,3 @@
-import pypandoc
-
-text = """
 # Threshold com OpenCV
 
 ## Descrição
